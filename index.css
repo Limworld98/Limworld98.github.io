@@ -14,22 +14,22 @@ body, h1, h2 {
 
 .mainbox {
 
-    width:64%;
+    width:70%;
     margin: 30px;
     margin-left: auto;
     margin-right: auto;
     border: 1px solid #ebebeb;
     padding: 30px;
-    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.2);
 }
   
 h1 {
-  font-size: 50px;
+  font-size: 40px;
   font-weight: bold;
 }
 
 .themes {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: lighter;
   color:#111111;
   border-bottom: 1px solid #bab9b9;
@@ -39,7 +39,7 @@ h1 {
 }
 
 .name-text {
-  font-size: 18px;
+  font-size: 14px;
   color:#888888;
   font-weight: bold;
 }
@@ -50,20 +50,13 @@ section {
 }
 
 .title-text {
-  font-size: 15px;
+  font-size: 12px;
   font-weight: bold;
   color: #282828;
 }
 
 .desc-text{
-  font-size: 12px;
-}
-
-
-.desc-subtext{
-  font-size: 9px;
-  color: #282828;
-  padding-left:16px;
+  font-size: 10px;
 }
 
 .img_main {
@@ -72,8 +65,8 @@ section {
 }
 
 .img {
-  width: 24px;
-  height: 24px;
+  width: 22px;
+  height: 22px;
 }
 
 .contact {
