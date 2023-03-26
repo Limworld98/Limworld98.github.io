@@ -14,7 +14,7 @@ body, h1, h2 {
 
 .mainbox {
 
-    width:610px;
+    width:64%;
     margin: 30px;
     margin-left: auto;
     margin-right: auto;
@@ -29,7 +29,7 @@ h1 {
 }
 
 .themes {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: lighter;
   color:#111111;
   border-bottom: 1px solid #bab9b9;
@@ -39,7 +39,7 @@ h1 {
 }
 
 .name-text {
-  font-size: 17px;
+  font-size: 18px;
   color:#888888;
   font-weight: bold;
 }
@@ -50,13 +50,13 @@ section {
 }
 
 .title-text {
-  font-size: 12px;
+  font-size: 15px;
   font-weight: bold;
   color: #282828;
 }
 
 .desc-text{
-  font-size: 9px;
+  font-size: 12px;
 }
 
 
@@ -66,11 +66,14 @@ section {
   padding-left:16px;
 }
 
+.img_main {
+  width: 20px;
+  height: 20px;
+}
 
-
-.sns-img {
-  width: 12px;
-  height: 12px;
+.img {
+  width: 24px;
+  height: 24px;
 }
 
 .contact {
