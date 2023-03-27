@@ -59,6 +59,11 @@ section {
   font-size: 10px;
 }
 
+.sub-text{
+  font-size: 9px;
+  font-weight: lighter;
+}
+
 .img_main {
   width: 20px;
   height: 20px;
